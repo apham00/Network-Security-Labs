@@ -18,6 +18,7 @@ Verify the default configuration of a Cisco Catalyst switch and configure basic 
 - Viewed VLAN and interface information
 - Configured VLAN 1 with an IP address
 - Enabled the interface using `no shutdown`
+- FastEthernet0/1 does not have an IP address because it is a Layer 2 switch port. On a switch, IP addresses are assigned to VLAN interfaces, such as VLAN 1, for management purposes.
 
 ## Key Commands
 bash
