@@ -9,7 +9,7 @@ Verify the default configuration of a Cisco Catalyst switch and configure basic 
 - Console connection (PC → Switch)
 - Ethernet connection (PC → FastEthernet0/1)
 
-## What I Did
+## Learned
 - Connected the PC to the switch console port
 - Connected the PC to FastEthernet0/1
 - Accessed the switch through the terminal
