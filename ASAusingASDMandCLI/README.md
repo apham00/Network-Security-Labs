@@ -8,7 +8,7 @@ Configure a Cisco ASA 5505 firewall with inside and outside interfaces, enable S
 2 Cisco 2960 switches
 1–2 PCs
 Inside and outside VLAN connections
-Ethernet connections between ASA and switches
+Ethernet connections between ASA and switches<br>
 <img src="./ASAusingASDMtopology.png" alt="Switching lab topology" width="600">
 
 ## Learned
@@ -23,4 +23,4 @@ Verified connectivity using ping commands
 Learned how ASA VLAN interfaces differ from normal router interfaces
 Saved configurations using write memory
 Tested communication between inside and outside networks
-<img src="./ASAusingASDMandCLi.png" alt="Switching lab topology" width="600">
+<img src="./ASAusingASDMandCLI.png" alt="Switching lab topology" width="600">
