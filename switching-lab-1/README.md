@@ -23,12 +23,11 @@ Verify the default configuration of a Cisco Catalyst switch and configure basic 
 <img src="./lab%201%20config.png" alt="Switch configuration screenshot" width="600">
 
 ## Key Commands
-bash
-enable
-show running-config
-show startup-config
-show vlan brief
-show ip interface brief
-interface vlan 1
-ip address 192.168.1.2 255.255.255.0
-no shutdown
+enable<br>
+show running-config<br>
+show startup-config<br>
+show vlan brief<br>
+show ip interface brief<br>
+interface vlan 1<br>
+ip address 192.168.1.2 255.255.255.0<br>
+no shutdown<br>
