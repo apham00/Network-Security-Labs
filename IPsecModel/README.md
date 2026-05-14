@@ -1,5 +1,5 @@
 ## Topology
-3 Routers (2911)<br>
+- 3 Routers (2911)<br>
 <img src="./ipsecmodel.png" alt="Switching lab topology" width="400">
 
 ## Objectives
